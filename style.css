@@ -1,1 +1,8 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  background-color: black;
+}
+
+h2, h3 {
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
